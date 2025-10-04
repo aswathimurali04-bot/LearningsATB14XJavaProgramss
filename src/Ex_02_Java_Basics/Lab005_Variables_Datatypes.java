@@ -1,4 +1,4 @@
-package Ex_01_Java_Basics;
+package Ex_02_Java_Basics;
 
 public class Lab005_Variables_Datatypes {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Lab005_Variables_Datatypes {
         year=100;
         double salary=2000.90;
         float bonus=1.F;
-        System.out.print("My expenses= ");
+        System.out.print("My expenses= " );
         System.out.print(  year-age+me*salary-bonus);
     }
 }

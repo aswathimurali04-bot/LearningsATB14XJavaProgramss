@@ -1,4 +1,4 @@
-package Ex_01_Java_Basics;
+package Ex_02_Java_Basics;
 
 public class Lab003_Math_Functions {
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class Lab003_Math_Functions {
         System.out.println(34*12);
         System.out.println("12+12");
         System.out.println(2*8.290);
-        System.out.println(10/0);
+        System.out.println(10/5);
     }
 }

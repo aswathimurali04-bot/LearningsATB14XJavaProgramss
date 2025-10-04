@@ -1,6 +1,4 @@
-package Ex_01_Java_Basics;
-
-import java.util.Arrays;
+package Ex_02_Java_Basics;
 
 public class Lab004_Println_vs_Print {
     public static void main(String[] args) {

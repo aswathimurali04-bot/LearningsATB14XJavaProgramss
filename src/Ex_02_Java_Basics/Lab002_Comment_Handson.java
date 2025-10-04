@@ -1,4 +1,4 @@
-package Ex_01_Java_Basics;
+package Ex_02_Java_Basics;
 
 public class Lab002_Comment_Handson {
     public static void main(String[] args) {
